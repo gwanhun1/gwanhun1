@@ -1,3 +1,5 @@
+## Hi! I'm gwanhun1
+
 <h1>Tech Stack</h1>
 
   |<div align="center">Front-End</div>|
@@ -18,6 +20,6 @@
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gwanhun1&show_icons=true&theme=nightowl&count_private=true" />
+<img width="45%" align=left  src="https://github-readme-stats.vercel.app/api?username=gwanhun1&show_icons=true&theme=nightowl&count_private=true" />
   
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwanhun1&layout=compact" />
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gwanhun1&layout=compact" />
