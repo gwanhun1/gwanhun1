@@ -1,4 +1,4 @@
-## Hi! I'm gwanhun1
+### Hi! I'm gwanhun1
 
 <h1>Tech Stack</h1>
 
