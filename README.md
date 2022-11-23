@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<div align="center"><h1>Tech Stack</h1></div>
+<h1>Tech Stack</h1>
 
   |<div align="center">Front-End</div>|
   |----------|
@@ -10,13 +8,13 @@
   |<div align="center">VCS</div>|
 | <div align="center"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></div>|
   |<div align="center">Co-Work Tools|
-  |<div align="center"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/></div>|
+  |<div align="center"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Trello-0052CC?style=flat&logo=Trello&logoColor=white"/></div>|
 
 <br>
   
 |Studying...|
 |------------|
-|<img src="https://img.shields.io/badge/Typecript-3178C6?style=flat&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> 
+|<img src="https://img.shields.io/badge/Typecript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 
 <br>
 
