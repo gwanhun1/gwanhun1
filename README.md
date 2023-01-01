@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=gwanhun1's%20GITHUB😁&fontSize=70&animation=fadeIn1.2s)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=6699ff&height=200&section=header&text=gwanhun1's%20GITHUB😁&fontSize=50&animation=fadeIn1.2s)
     <div align="center">Email : wjdrhksgns7602@gmail.com</div>
     <div align="center">Blog : https://velog.io/@rhks7602</div>
     <div align="center">AboutME : [https://url.kr/tk4hl8](https://www.notion.so/ce9a897a6c95480b8a4e4590f0fce4d3)</div>
@@ -51,4 +51,8 @@
   
 ![gwanhun1's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwanhun1&show_icons=true&theme=gruvbox)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwanhun1)](https://github.com/gwanhun1/github-readme-stats)
-  </div>
+ 
+  <br/>
+  <br/>
+    
+![footer](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=6699ff&height=200&section=footer&text=Good%20Bye😁&fontSize=50) 
