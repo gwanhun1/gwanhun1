@@ -3,8 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=gwanhun1's%20GITHUB😁&fontSize=70&animation=fadeIn1.2s)
 
 
-<br/>
-  <br/>
   
   <!-- Badge -->
   ##  Tech Stack 
