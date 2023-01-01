@@ -1,7 +1,11 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=gwanhun1's%20GITHUB😁&fontSize=70&animation=fadeIn1.2s)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=gwanhun1's%20GITHUB😁&fontSize=70&animation=fadeIn1.2s)
+    <div align="center">Email : wjdrhksgns7602@gmail.com</div>
+    <div align="center">Blog : https://velog.io/@rhks7602</div>
+    <div align="center">AboutME : [https://url.kr/tk4hl8](https://www.notion.so/ce9a897a6c95480b8a4e4590f0fce4d3)</div>
+  <br/>
+  <br/>
 
   
   <!-- Badge -->
