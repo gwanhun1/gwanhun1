@@ -53,6 +53,5 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwanhun1)](https://github.com/gwanhun1/github-readme-stats)
  
   <br/>
-  <br/>
     
 ![footer](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=6699ff&height=200&section=footer&text=Good%20Bye😁&fontSize=50) 
