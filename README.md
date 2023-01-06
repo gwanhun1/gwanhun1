@@ -9,7 +9,7 @@
 
   
   <!-- Badge -->
-  ##  Tech Stack 
+  ##  Tech Stack 👍
   
   <!-- Language -->
   <br/>
@@ -34,7 +34,7 @@
   <br/>
   <br/>
   
-  ## Cowork Tools
+  ## Cowork Tools 🤟
   <br/>
   <p>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white"/>
