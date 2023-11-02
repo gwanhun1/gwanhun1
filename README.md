@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=6699ff&height=200&section=header&text=gwanhun1's%20GITHUB😁&fontSize=50&animation=fadeIn1.2s)
     <div align="center">Email : wjdrhksgns7602@gmail.com</div>
     <div align="center">Blog : https://velog.io/@rhks7602</div>
-    <div align="center">AboutME : [https://url.kr/tk4hl8]([https://www.notion.so/ce9a897a6c95480b8a4e4590f0fce4d3](https://small-heather-964.notion.site/5a87ccec12ba45bcba817dcf7f10a148?pvs=4))</div>
+    <div align="center">AboutME : [[https://url.kr/tk4hl8]([https://www.notion.so/ce9a897a6c95480b8a4e4590f0fce4d3](https://small-heather-964.notion.site/5a87ccec12ba45bcba817dcf7f10a148?pvs=4))](https://small-heather-964.notion.site/5a87ccec12ba45bcba817dcf7f10a148?pvs=4)</div>
   <br/>
   <br/>
 
