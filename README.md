@@ -19,14 +19,14 @@
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Create%20React%20App-09D3AC?style=flat&logo=createreactapp&logoColor=white"/>
   <br/>
-  <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat&logo=expo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Native-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/NEXT.js-000000?style=flat&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-4A154B?style=flat&logo=Redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recoil-212121?style=flat&logo=recoil&logoColor=white"/>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/>
  <br/>
  <br/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=#000020"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=expo&logoColor=#000020"/>
   <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> 
