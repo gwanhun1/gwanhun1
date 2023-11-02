@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Bootstrap-31A8FF?style=flat&logo=Bootstrap&logoColor=white"/> 
   <br/>
-  <img src="https://img.shields.io/badge/expo-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/expo-000000?style=flat-square&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-1572B6?style=flat-square&logo=firebase&logoColor=#FFCA28"/>
   <br/>
   <br/>
