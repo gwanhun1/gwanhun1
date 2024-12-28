@@ -1,11 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=ffffff&color=6699ff&height=200&section=header&text=gwanhun1's%20GITHUB😁&fontSize=50&animation=fadeIn1.2s)
-    <div align="center">Email : wjdrhksgns7602@gmail.com</div>
-    <div align="center">Blog : https://velog.io/@rhks7602</div>
-    <div align="center">AboutME : https://small-heather-964.notion.site/5a87ccec12ba45bcba817dcf7f10a148</div>
-  <br/>
-  <br/>
+
 
   
   <!-- Badge -->
